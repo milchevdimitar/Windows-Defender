@@ -163,7 +163,7 @@ while running:
     show_score(textX, testY)
     pygame.display.update()
     
-#    time.sleep(1/100)
+    time.sleep(1/100)
 
 bill_1 = pygame.image.load("bill_1.png")
 bill_2 = pygame.image.load("bill_2.png")
